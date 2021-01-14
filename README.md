@@ -1,4 +1,4 @@
-# swen-report-bot
+# SWEN 607 9040 Software Engineering Project
 
 The project is to develop an artificial intelligence (AI) software to help professionals in public service like doctors, medical technicians, police officers, and others who fill out a text report after performing a portion of their job, to prepare that text report. Let's take the example of a physician. Physicians write notes after each patient visit. We want a tool to listen to the conversation between the physician and the patient and prepare potential notes that the physician can then edit before saving it in an Electronic Medical Record (EMR) system. Likewise is the case for other public service professionals.
 
